@@ -38,7 +38,7 @@ A comprehensive machine learning project that analyzes the sentiment of YouTube 
 
 1. **Clone the repository**
 ```bash
-git clone git@github.com:jitendra-121/youtube-comment-sentiment-analysis.git
+git clone git@github.com:Pavanachowdary/youtube-comment-sentiment-analysis.git
 cd youtube-comment-sentiment-analysis
 ```
 
